@@ -2,7 +2,7 @@
 
 > The all-in-one digital home of the Işık University Chargers American football team, used daily by the whole roster and coaching staff.
 
-**Web app (mobile-first)** · [chargers.melberlabs.com](https://chargers.melberlabs.com) · Designed, built and operated by [İbrahim Melikşah Köse](https://github.com/meliksahkose), team captain 2023–2026 and current linebacker coach
+**Web app (mobile-first)** · [chargers.melberlabs.com](https://chargers.melberlabs.com) · Designed, built and operated by [İbrahim Melikşah Köse](https://github.com/meliksahkose), team captain 2023–2026 and current assistant coach
 
 ## What it does
 - **Practice schedule and attendance**: players report availability, and coaches take roll in seconds.
