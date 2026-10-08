@@ -20,4 +20,4 @@ Clubs usually pay for this kind of tooling in commercial products such as Hudl. 
 - **Stack:** Next.js 16 · React 19 · Tailwind v4 · Better Auth (Google) · Drizzle ORM + PostgreSQL · Docker on a self-managed Linux server · GitHub Actions.
 
 ---
-<sub>Source code is private (the code and content belong to the club). Happy to demo it in an interview: meliksahkose90@gmail.com</sub>
+<sub>Source code is private (the code and content belong to the club). Happy to demo it in an interview: meliksah.kose1@hotmail.com</sub>
